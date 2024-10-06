@@ -50,3 +50,19 @@ If you'd like to contribute or suggest improvements, please feel free to:
 - **LinkedIn**: [linkedin.com/in/munajimale/](https://www.linkedin.com/in/munajimale/)
 
 Thank you for stopping by! 😊
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
+<!---LeetCode Topics End-->
