@@ -1,20 +1,20 @@
-# ð REO - Exercise Solutions
+# Ã°ÂÂÂ REO - Exercise Solutions
 
-Welcome to my repository of solutions for various exercises! ð  
+Welcome to my repository of solutions for various exercises! Ã°ÂÂÂ  
 Here, you'll find my approach to solving coding problems and challenges. Feel free to explore and give feedback!
 
-## ð Structure
+## Ã°ÂÂÂ Structure
 
 Each exercise is contained in its own folder with the following structure:
 
 ```
 /exercise-name
-  âââ problem.md   # Problem description
-  âââ solution.js  # My solution (language may vary)
-  âââ test.js      # Test cases (if applicable)
+  Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ problem.md   # Problem description
+  Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ solution.js  # My solution (language may vary)
+  Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ test.js      # Test cases (if applicable)
 ```
 
-## ð© Getting Started
+## Ã°ÂÂÂ© Getting Started
 
 1. Clone the repository:
    ```bash
@@ -26,30 +26,30 @@ Each exercise is contained in its own folder with the following structure:
    cd LeetCode/exercise-name
    ```
 
-3. Run the solution and test it yourself! âï¸
+3. Run the solution and test it yourself! Ã¢ÂÂÃ¯Â¸Â
 
-## ð  Tools & Languages
+## Ã°ÂÂÂ  Tools & Languages
 
 I use the following languages and tools throughout the repo:
 
-- ð **Python** (mainly)
-- ð§® **Others**
-- ð§ª **Testing Frameworks** (like pytest for Python)
+- Ã°ÂÂÂ **Python** (mainly)
+- Ã°ÂÂ§Â® **Others**
+- Ã°ÂÂ§Âª **Testing Frameworks** (like pytest for Python)
 
-## ð How to Contribute
+## Ã°ÂÂÂ How to Contribute
 
 If you'd like to contribute or suggest improvements, please feel free to:
 
-1. Fork this repository ð´
-2. Make your changes âï¸
-3. Submit a pull request ð¬
+1. Fork this repository Ã°ÂÂÂ´
+2. Make your changes Ã¢ÂÂÃ¯Â¸Â
+3. Submit a pull request Ã°ÂÂÂ¬
 
-## ð Connect with Me
+## Ã°ÂÂÂ Connect with Me
 
 - **Email**: [muna.y.a.jim@gmail.com](mailto:muna.y.a.jim@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/munajimale/](https://www.linkedin.com/in/munajimale/)
 
-Thank you for stopping by! ð
+Thank you for stopping by! Ã°ÂÂÂ
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

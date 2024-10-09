@@ -5,9 +5,10 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        count = 0
-        for i in range(len(nums)):
-            if nums[i - count] == val:
-                nums.pop(i - count)
-                count += 1
+        i = 0
+        while i < len(nums):
+            if nums[i] == val:
+                nums.pop(i)
+            else:
+                i += 1
         return len(nums)
