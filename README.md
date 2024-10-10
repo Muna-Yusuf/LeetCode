@@ -98,5 +98,10 @@ Thank you for stopping by!
 ## String
 |  |
 | ------- |
+| [1274-number-of-days-between-two-dates](https://github.com/Muna-Yusuf/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muna-Yusuf/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+## Math
+|  |
+| ------- |
+| [1274-number-of-days-between-two-dates](https://github.com/Muna-Yusuf/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
