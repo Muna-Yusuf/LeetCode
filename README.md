@@ -70,6 +70,7 @@ Thank you for stopping by!
 | [0027-remove-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muna-Yusuf/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Muna-Yusuf/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Thank you for stopping by!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Muna-Yusuf/LeetCode/tree/master/0125-valid-palindrome) |
 | [1274-number-of-days-between-two-dates](https://github.com/Muna-Yusuf/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muna-Yusuf/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Math
