@@ -64,6 +64,7 @@ Thank you for stopping by!
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muna-Yusuf/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2102-find-the-middle-index-in-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,4 +121,8 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muna-Yusuf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
