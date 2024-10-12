@@ -60,6 +60,7 @@ Thank you for stopping by!
 | [0027-remove-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muna-Yusuf/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Muna-Yusuf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muna-Yusuf/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -115,4 +116,8 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muna-Yusuf/LeetCode/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Muna-Yusuf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
