@@ -74,6 +74,7 @@ Thank you for stopping by!
 | [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Muna-Yusuf/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Muna-Yusuf/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Muna-Yusuf/LeetCode/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Thank you for stopping by!
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Muna-Yusuf/LeetCode/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -118,6 +120,7 @@ Thank you for stopping by!
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Muna-Yusuf/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Muna-Yusuf/LeetCode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -131,4 +134,5 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Muna-Yusuf/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Muna-Yusuf/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
