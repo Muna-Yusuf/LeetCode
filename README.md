@@ -73,6 +73,7 @@ Thank you for stopping by!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muna-Yusuf/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Muna-Yusuf/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Muna-Yusuf/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Thank you for stopping by!
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Muna-Yusuf/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -125,4 +127,8 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Muna-Yusuf/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
