@@ -62,6 +62,7 @@ Thank you for stopping by!
 | [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muna-Yusuf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muna-Yusuf/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -85,6 +86,7 @@ Thank you for stopping by!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Muna-Yusuf/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,10 +99,12 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Muna-Yusuf/LeetCode/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
 ## String
 |  |
