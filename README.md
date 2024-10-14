@@ -65,6 +65,7 @@ Thank you for stopping by!
 | [0215-kth-largest-element-in-an-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
+| [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muna-Yusuf/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -83,6 +84,7 @@ Thank you for stopping by!
 | [0088-merge-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Thank you for stopping by!
 | ------- |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muna-Yusuf/LeetCode/tree/master/0231-power-of-two) |
+| [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1274-number-of-days-between-two-dates](https://github.com/Muna-Yusuf/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 ## Bit Manipulation
 |  |
@@ -153,8 +157,14 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
