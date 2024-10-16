@@ -56,6 +56,7 @@ Thank you for stopping by!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Muna-Yusuf/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -90,6 +91,7 @@ Thank you for stopping by!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Muna-Yusuf/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
