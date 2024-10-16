@@ -64,6 +64,7 @@ Thank you for stopping by!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muna-Yusuf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Muna-Yusuf/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
@@ -88,6 +89,7 @@ Thank you for stopping by!
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Muna-Yusuf/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Muna-Yusuf/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
@@ -97,6 +99,7 @@ Thank you for stopping by!
 | [0141-linked-list-cycle](https://github.com/Muna-Yusuf/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muna-Yusuf/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Muna-Yusuf/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Muna-Yusuf/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/Muna-Yusuf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -135,12 +138,14 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muna-Yusuf/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Muna-Yusuf/LeetCode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1274-number-of-days-between-two-dates](https://github.com/Muna-Yusuf/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muna-Yusuf/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Muna-Yusuf/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -185,4 +190,8 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Muna-Yusuf/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
