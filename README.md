@@ -68,6 +68,7 @@ Thank you for stopping by!
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
 | [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1319-unique-number-of-occurrences](https://github.com/Muna-Yusuf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muna-Yusuf/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/Muna-Yusuf/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -98,6 +99,7 @@ Thank you for stopping by!
 | [0242-valid-anagram](https://github.com/Muna-Yusuf/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1319-unique-number-of-occurrences](https://github.com/Muna-Yusuf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
