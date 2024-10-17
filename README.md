@@ -72,6 +72,7 @@ Thank you for stopping by!
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
+| [0876-hand-of-straights](https://github.com/Muna-Yusuf/LeetCode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1319-unique-number-of-occurrences](https://github.com/Muna-Yusuf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muna-Yusuf/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -98,6 +99,7 @@ Thank you for stopping by!
 | [0242-valid-anagram](https://github.com/Muna-Yusuf/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muna-Yusuf/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0876-hand-of-straights](https://github.com/Muna-Yusuf/LeetCode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -112,6 +114,7 @@ Thank you for stopping by!
 | [0268-missing-number](https://github.com/Muna-Yusuf/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0876-hand-of-straights](https://github.com/Muna-Yusuf/LeetCode/tree/master/0876-hand-of-straights) |
 | [1319-unique-number-of-occurrences](https://github.com/Muna-Yusuf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -181,6 +184,7 @@ Thank you for stopping by!
 ## Greedy
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Muna-Yusuf/LeetCode/tree/master/0876-hand-of-straights) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Muna-Yusuf/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Heap (Priority Queue)
 |  |
