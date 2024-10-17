@@ -6,8 +6,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        counts = Counter(nums)
-        
-        for item, count in counts.items():
-            if count > 1:
-                return item
+        dupli_num = set()
+        for num in nums:
+            if num in dupli_num:
+                return num
+            dupli_num.add(num)
