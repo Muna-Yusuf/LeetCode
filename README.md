@@ -102,6 +102,7 @@ Thank you for stopping by!
 | [0347-top-k-frequent-elements](https://github.com/Muna-Yusuf/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/Muna-Yusuf/LeetCode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Muna-Yusuf/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Thank you for stopping by!
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/Muna-Yusuf/LeetCode/tree/master/0876-hand-of-straights) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Muna-Yusuf/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/Muna-Yusuf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -227,6 +229,7 @@ Thank you for stopping by!
 | [0404-sum-of-left-leaves](https://github.com/Muna-Yusuf/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Muna-Yusuf/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -235,6 +238,7 @@ Thank you for stopping by!
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Muna-Yusuf/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,6 +247,7 @@ Thank you for stopping by!
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Muna-Yusuf/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,5 +257,6 @@ Thank you for stopping by!
 | [0404-sum-of-left-leaves](https://github.com/Muna-Yusuf/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Muna-Yusuf/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
