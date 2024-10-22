@@ -223,6 +223,7 @@ Thank you for stopping by!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Muna-Yusuf/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -231,6 +232,7 @@ Thank you for stopping by!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Muna-Yusuf/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -238,6 +240,7 @@ Thank you for stopping by!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Muna-Yusuf/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Tree
@@ -245,6 +248,7 @@ Thank you for stopping by!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Muna-Yusuf/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
