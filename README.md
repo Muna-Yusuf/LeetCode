@@ -231,6 +231,7 @@ Thank you for stopping by!
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
@@ -245,6 +246,7 @@ Thank you for stopping by!
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muna-Yusuf/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -256,6 +258,7 @@ Thank you for stopping by!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
@@ -265,6 +268,7 @@ Thank you for stopping by!
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
