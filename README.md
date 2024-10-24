@@ -141,6 +141,7 @@ Thank you for stopping by!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Muna-Yusuf/LeetCode/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Muna-Yusuf/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Muna-Yusuf/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -237,6 +238,7 @@ Thank you for stopping by!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muna-Yusuf/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -253,6 +255,7 @@ Thank you for stopping by!
 | [0101-symmetric-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muna-Yusuf/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -279,6 +282,7 @@ Thank you for stopping by!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muna-Yusuf/LeetCode/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Muna-Yusuf/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Muna-Yusuf/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Muna-Yusuf/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
